@@ -87,13 +87,13 @@ li a:hover {
   background: rgb(163, 224, 216);
   color: light-blue;
 }
-#aviao {
+#instagram {
    width: 20%;
 }
-#aviao:hover{
+#instagram:hover{
    width: 22%;
 }
-.caixaAviao {
+.caixaInstagram {
    position: absolute;
    top: 50px;
    left: 0;
