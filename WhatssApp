@@ -16,12 +16,6 @@
             <li><a href="pagina02.html">WhatsApp</a></li>
           </ul>
         </nav>
-     </div>
-     <div class="caixaInstagram">
-       <img id="instagram.png" src="./instagram.png" alt="">
-
-     </div>
-
-     </div>
+    </div>
 </body>
 </html>

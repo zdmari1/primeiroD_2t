@@ -17,11 +17,11 @@
           </ul>
         </nav>
      </div>
+     <p>O instagram é uma rede social de compartilhamento de fotos e vídeos entre seus usuários. No começo uma característica distintiva era a limitação de uploud apenas de fotos no tamnho quadrado, mas atualmente é permitido o envio de qualquer tamanho de foto, podem ser enviados vídeos támbem e a platarforma possui a opção story, uma foto ou vídeo que ficam disponível apenas durante 24 horas.</p>
+     <p>É uma das redes sociais mais utilizadas ao redor do mundo e é difícil encontrar alguém que não tenha uma conta nessa rede social. </p>
      <div class="caixaInstagram">
        <img id="instagram.png" src="./instagram.png" alt="">
-
      </div>
 
-     </div>
 </body>
 </html>
